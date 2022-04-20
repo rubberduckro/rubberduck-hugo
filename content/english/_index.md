@@ -120,7 +120,7 @@ service:
           </p>"
 
     # service item loop
-    - title : "Team: work makes the app work"
+    - title : "Team work makes the app work"
       images:
       - "images/design-sprint.png"
       content : "
