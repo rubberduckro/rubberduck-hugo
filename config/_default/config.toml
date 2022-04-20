@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://rubberduck.ro"
+baseURL = "https://www.rubberduck.ro"
 title = "Rubber Duck Software"
 theme = "bigspring-light"
 # post pagination
