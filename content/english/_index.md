@@ -84,11 +84,11 @@ service:
             <ul>
               <li><b>Back-end:</b> Java (counting from seven to <del>eleven</del> seventeen)</li>
               <li><b>Front-end:</b> Typescript, Angular, React, Ionic</li>
-              <li><b>Databases:</b> SQL(PostgreSQL, MySQL), noSQL (MongoDB)</li>
+              <li><b>Databases:</b> SQL (PostgreSQL, MySQL), noSQL (MongoDB)</li>
               <li><b>Frameworks and others:</b> Spring (Core, Spring Boot, Spring Security, Spring MVC), Hibernate/JPA, Kafka, Gradle/Maven, git, 
               REST, gRPC, Tomcat, Junit, Spock</li>
               <li><b>Cloud:</b> AWS, Azure, Google cloud, Docker</li>
-              <li><b>Other stuff we know:</b> FIX-protocol, PSD2; Open Banking, OAuth2, BankID</li>
+              <li><b>Other stuff we know:</b> FIX-protocol, PSD2, Open Banking, OAuth2, BankID</li>
               <li><b>Stuff we wish we didn't know:</b> JSF, GWT</li>
             </ul>
         </p>"
